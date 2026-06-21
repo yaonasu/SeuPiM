@@ -1,9 +1,9 @@
 # PiiM
-Simple ＆EasyToUse Project &amp; Issue Management Tool
+Simple &amp; Easy-to-Use Project &amp; Issue Management Tool
 
 個人・小規模チーム向けに「シンプルで使いやすい」を追求したプロジェクト管理ツールです  
   
-PiiM は Redmine や Jira、Trac など、有名なプロジェクト管理ツールのように  
+SeuPiM は Redmine や Jira、Trac など、有名なプロジェクト管理ツールのように  
 チケット（≒タスク）単位でプロジェクトを管理します  
   
 複雑な設定やサーバー構築は不要、インストール後すぐにご利用頂けます  
