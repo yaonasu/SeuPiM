@@ -1,4 +1,4 @@
-# PiiM
+# SeuPiM
 Simple &amp; Easy-to-Use Project &amp; Issue Management Tool
 
 個人・小規模チーム向けに「シンプルで使いやすい」を追求したプロジェクト管理ツールです  
